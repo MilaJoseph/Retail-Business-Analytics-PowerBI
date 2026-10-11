@@ -55,6 +55,20 @@ The Retail Business Analytics Dashboard is a Power BI project designed to explor
 2. Open it using Microsoft Power BI Desktop.
 3. Explore the report pages and interact with the available slicers and visualizations.
 
+## Dashboard Preview
+
+### 1. Sales Analysis
+![Sales Dashboard](Screenshots/Sales_dashboard.png)
+
+### 2. Profit Analysis
+![Profit Dashboard](Screenshots/Profit_dashboard.png)
+
+### 3. Demographics and Customer Analysis
+![Demographics Dashboard](Screenshots/Demographic_dashboard.png)
+
+## Project Report
+
+[View the Retail Business Analytics Report (PDF)](Retail_business_Report.pdf)
 
 ## Author
 
